@@ -3,7 +3,7 @@ taby
 
 #disTributed Awesome BookmarkY
 
-> Taby help distribute your bookmarks and tabs across browsers and devices. It let's you annotate your boomarks with labels, descriptions, times, locations and more. Make bookmarking easy, and finding bookmarks even easier.
+> Taby helps distribute your bookmarks and tabs across browsers and devices. It let's you annotate your boomarks with labels, descriptions, times, locations and more. Make bookmarking easy, and finding bookmarks even easier.
  
 STEP 1:
 
