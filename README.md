@@ -22,7 +22,7 @@ STEP 3:
 
 > [Download Firefox SDK Installation Guide](https://developer.mozilla.org/en-US/Add-ons/SDK/Tutorials/Installation)
 
-> [Firefox Addons]((https://developer.mozilla.org/en-US/Add-ons/Overlay_Extensions/Firefox_addons_developer_guide)
+> [Firefox Addons](https://developer.mozilla.org/en-US/Add-ons/Overlay_Extensions/Firefox_addons_developer_guide)
 
 > [Firefox Addons UI](https://developer.mozilla.org/en-US/Add-ons/Overlay_Extensions/Firefox_addons_developer_guide/Introduction_to_XUL%E2%80%94How_to_build_a_more_intuitive_UI)
 
