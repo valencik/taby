@@ -14,17 +14,17 @@ Andrew will approve you to get in
 
 STEP 2:
 
-> Go to our Taby Etherpad Page: (https://taby.etherpad.mozilla.org/1)
+> [Go to our Taby Etherpad Page](https://taby.etherpad.mozilla.org/1)
 
 STEP 3:
 
-> Download Firefox Developer edition (https://www.mozilla.org/en-US/firefox/developer/)
+> [Download Firefox Developer edition](https://www.mozilla.org/en-US/firefox/developer/)
 
-> Download Firefox SDK Installation Guide (https://developer.mozilla.org/en-US/Add-ons/SDK/Tutorials/Installation)
+> [Download Firefox SDK Installation Guide](https://developer.mozilla.org/en-US/Add-ons/SDK/Tutorials/Installation)
 
-> Firefox Addons (https://developer.mozilla.org/en-US/Add-ons/Overlay_Extensions/Firefox_addons_developer_guide)
+> [Firefox Addons]((https://developer.mozilla.org/en-US/Add-ons/Overlay_Extensions/Firefox_addons_developer_guide)
 
-> Firefox Addons UI ( https://developer.mozilla.org/en-US/Add-ons/Overlay_Extensions/Firefox_addons_developer_guide/Introduction_to_XUL%E2%80%94How_to_build_a_more_intuitive_UI )
+> [Firefox Addons UI](https://developer.mozilla.org/en-US/Add-ons/Overlay_Extensions/Firefox_addons_developer_guide/Introduction_to_XUL%E2%80%94How_to_build_a_more_intuitive_UI)
 
 ```
 For Mac folks, just install it via brew: brew install mozilla-addon-sdk
@@ -32,11 +32,11 @@ For Mac folks, just install it via brew: brew install mozilla-addon-sdk
 
 TUTORIALS:
 
-> Get a button (https://developer.mozilla.org/en-US/Add-ons/SDK/Tutorials/Getting_started)
+> [Get a button](https://developer.mozilla.org/en-US/Add-ons/SDK/Tutorials/Getting_started)
 
 
 GRAPHIC NEEDS:
 
-> Cat Logo Prototype (http://commons.wikimedia.org/wiki/File:Cat_silhouette.svg)
+> [Cat Logo Prototype](http://commons.wikimedia.org/wiki/File:Cat_silhouette.svg)
 
-> Build us a 5 colour scheme with something like (https://color.adobe.com/create/color-wheel/)
+> [Build us a 5 colour scheme](https://color.adobe.com/create/color-wheel/)
