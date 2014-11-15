@@ -17,17 +17,15 @@ Development
  
 > Note: Taby is developed for Firefox Developer Edition first and foremost.
 
-1. Download [Firefox Developer Edition](https://www.mozilla.org/en-US/firefox/developer/).
+Download [Firefox Developer Edition](https://www.mozilla.org/en-US/firefox/developer/) and the [Firefox Addon SDK](https://developer.mozilla.org/en-US/Add-ons/SDK/Tutorials/Installation).
 
-2. Download [Firefox Addon SDK](https://developer.mozilla.org/en-US/Add-ons/SDK/Tutorials/Installation)
-
-Mac folks, just install it via brew:  
+Mac folks, install the addon SDK via brew:  
 
 ```
 brew install mozilla-addon-sdk
 ```
 
-3. Clone the repo and run cfx, passing the path to your Firefox app if necessary.
+Clone the repo and run `cfx`, passing the path to your Firefox app if necessary.
 
 ```
 cfx run -b /Applications/Firefox.app/
