@@ -1,13 +1,10 @@
-console.log("Loading panel.js");
-
-var i;
+//Attach listeners to each panel option container
 var panelOptions = document.getElementsByClassName("optionContainer");
-
 for(i=0 ; i<panelOptions.length ; i++){
-    console.log("Attaching listener to:"+panelOptions[i].innerHTML);
     panelOptions[i].addEventListener("click", function(){processEvent(this)}, false);
 }
 
+//Handle a click on a panel option
 function processEvent(item){
     option = item.id;
     self.port.emit("panelAction", option);
