@@ -9,6 +9,6 @@ for(i=0 ; i<panelOptions.length ; i++){
 }
 
 function processEvent(item){
-    option = item.innerHTML;
+    option = item.id;
     self.port.emit("panelAction", option);
 }
