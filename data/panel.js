@@ -1,7 +1,7 @@
 console.log("Loading panel.js");
 
 var i;
-var panelOptions = document.getElementsByTagName("li");
+var panelOptions = document.getElementsByClassName("optionContainer");
 
 for(i=0 ; i<panelOptions.length ; i++){
     console.log("Attaching listener to:"+panelOptions[i].innerHTML);
