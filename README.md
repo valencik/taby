@@ -1,7 +1,7 @@
 taby
 ====
 
-Name: disTributed Awesome BookmarkY
+#disTributed Awesome BookmarkY
 
 > Taby help distribute your bookmarks and tabs across browsers and devices. It let's you annotate your boomarks with labels, descriptions, times, locations and more. Make bookmarking easy, and finding bookmarks even easier.
  
@@ -27,7 +27,7 @@ STEP 3:
 > Firefox Addons UI ( https://developer.mozilla.org/en-US/Add-ons/Overlay_Extensions/Firefox_addons_developer_guide/Introduction_to_XUL%E2%80%94How_to_build_a_more_intuitive_UI )
 
 ```
-For Mac folks, just install it via brew: *brew install mozilla-addon-sdk*
+For Mac folks, just install it via brew: brew install mozilla-addon-sdk
 ```
 
 TUTORIALS:
