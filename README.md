@@ -9,7 +9,7 @@ taby
 Installation
 ============
 
-There is currently no packaged release, so please see the Development section to test out taby.
+> There is currently no packaged release, so please see the Development section to test out taby.
 
 
 Development
