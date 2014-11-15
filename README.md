@@ -26,7 +26,7 @@ Development
 brew install mozilla-addon-sdk
 ```
 
-OR [Firefox Addon SDK](https://developer.mozilla.org/en-US/Add-ons/SDK/Tutorials/Installation)
+> OR [Firefox Addon SDK](https://developer.mozilla.org/en-US/Add-ons/SDK/Tutorials/Installation)
 
 3. Clone the repo and run cfx, passing the path to your Firefox app if necessary.
 
