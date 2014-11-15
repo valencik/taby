@@ -7,11 +7,21 @@
         font-size: 1em;
     }
 
+    .header {
+        width: 100%;
+        height: 5%;
+        display: block;
+        padding-bottom: 10px;
+    }
+
+    .header h4 {
+        padding-bottom: 10px;
+    }
+
     .optionContainer {
         width: 100%;
-        height: 33%;
+        height: 25%;
         display: block;
-        position: relative;
     }
 
     .optionContainer:hover {
@@ -32,23 +42,25 @@
         transform: translate(0, -40%);
     }
 
-
     .optionText {
         display: block;
         float: left;
         height: 100%;
-        width: 80%;
-        padding-left: 10px;
+        width: 70%;
+        padding-left: 25px;
     }
 </style>
 
 <html>
 <body>
+    <div class="header">
+        <h4>Taby</h4>    
+    </div>
     <div class="optionContainer" id="pull">
         <div class="spacer"></div>
         <div class="spacer">
             <div class="optionIcon verticalAlign"><img src="download.png"></div>
-            <div class="optionText verticalAlign">Pull from Repo</div>
+            <div class="optionText verticalAlign">Pull</div>
         </div>
         <div class="spacer"></div>
     </div>
@@ -56,7 +68,7 @@
         <div class="spacer"></div>
         <div class="spacer">
             <div class="optionIcon verticalAlign"><img src="upload.png"></div>
-            <div class="optionText verticalAlign">Push to Repo</div>
+            <div class="optionText verticalAlign">Push</div>
         </div>
         <div class="spacer"></div>
     </div>
