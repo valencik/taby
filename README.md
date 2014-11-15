@@ -19,13 +19,14 @@ Development
 
 1. Download [Firefox Developer Edition](https://www.mozilla.org/en-US/firefox/developer/).
 
-2. Download [Firefox Addon SDK](https://developer.mozilla.org/en-US/Add-ons/SDK/Tutorials/Installation)
+2. Download FireFox Add-on SDK
 
-Mac folks, just install it via brew:  
-
+> For Mac Users:
 ```
 brew install mozilla-addon-sdk
 ```
+
+> OR [Firefox Addon SDK](https://developer.mozilla.org/en-US/Add-ons/SDK/Tutorials/Installation)
 
 3. Clone the repo and run cfx, passing the path to your Firefox app if necessary.
 
