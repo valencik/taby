@@ -30,5 +30,5 @@ Or see the [Firefox Addon SDK Tutorial](https://developer.mozilla.org/en-US/Add-
 Clone the repo and run `cfx`, passing the path to your Firefox app if necessary.
 
 ```
-cfx run -b /Applications/Firefox.app/
+cfx run -b /Applications/FirefoxDeveloperEdition.app/
 ```
