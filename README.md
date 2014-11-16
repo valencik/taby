@@ -32,6 +32,8 @@ brew install mozilla-addon-sdk
 
 Clone the repo and run `cfx`, passing the path to your Firefox app if necessary.
 
-```
+```bash
+git clone https://github.com/valencik/taby.git
+cd taby
 cfx run -b /Applications/FirefoxDeveloperEdition.app/
 ```
